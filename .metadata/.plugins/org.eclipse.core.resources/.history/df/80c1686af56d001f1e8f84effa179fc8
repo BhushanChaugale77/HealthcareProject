@@ -1,0 +1,5 @@
+package com.xcure.entity;
+
+public class Author {
+
+}
